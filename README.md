@@ -1,4 +1,4 @@
-# n3-api-sextou
+# API completa com MongoDB
 API surpresa de sexta-feira pra fechar a Semana 10 com chave de ouro
 
 ## Passo a passo pra criar a API:
